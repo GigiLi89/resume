@@ -3,13 +3,17 @@
 * {
     font-family: "Poppins", sans-serif;
 }
-/*-------------------------------------- Color */
+/*-------------------------------------- Colorr */
 .bg-color-title {
     background-color: #676767;
 }
 
 .bg-color-three-reasons {
     background-color: #ffffff;
+}
+
+.bg-color-personal-info {
+    background-color: #f4f4f4;
 }
 
 .ui-menu-color-home {
@@ -210,4 +214,15 @@ background: #a15abd;
 
 #footer-details {
     padding: 20px;
+}
+
+/*-------------------------------------- Three reasons */
+
+.three-reasons-icon {
+    font-size: 26px;
+    color: #e78293;
+}
+
+.three-reasons-heading {
+    margin-bottom: 15px;
 }
